@@ -1,0 +1,8 @@
+**/input*.txt
+**/input*.csv
+**/testInput*.txt
+**/outputs.txt
+**/seconds.txt
+/private/
+/__pycache__/
+/.history/

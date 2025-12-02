@@ -1,0 +1,16 @@
+# [***🧑‍🎄 ADVENT OF CODE 2024! 🎄***](https://adventofcode.com/2024/)
+
+| ***Day*** | ***Part 1*** | ***Part 2*** |
+|:---------:|:------------:|:------------:|
+|   Day 1   |   $${\color{green} Solved}$$    |   $${\color{red}Unsolved}$$   |
+|   Day 2   |   $${\color{green} Solved}$$    |   $${\color{green} Solved}$$    |
+|   Day 3   |   $${\color{orange}Unreleased}$$   |   $${\color{orange}Unreleased}$$   |
+|   Day 4   |   $${\color{orange}Unreleased}$$   |   $${\color{orange}Unreleased}$$   |
+|   Day 5   |   $${\color{orange}Unreleased}$$   |   $${\color{orange}Unreleased}$$   |
+|   Day 6   |   $${\color{orange}Unreleased}$$   |   $${\color{orange}Unreleased}$$   |
+|   Day 7   |   $${\color{orange}Unreleased}$$   |   $${\color{orange}Unreleased}$$   |
+|   Day 8   |   $${\color{orange}Unreleased}$$   |   $${\color{orange}Unreleased}$$   |
+|   Day 9   |   $${\color{orange}Unreleased}$$   |   $${\color{orange}Unreleased}$$   |
+|   Day 10  |   $${\color{orange}Unreleased}$$   |   $${\color{orange}Unreleased}$$   |
+|   Day 11  |   $${\color{orange}Unreleased}$$   |   $${\color{orange}Unreleased}$$   |
+|   Day 12  |   $${\color{orange}Unreleased}$$   |   $${\color{orange}Unreleased}$$   |

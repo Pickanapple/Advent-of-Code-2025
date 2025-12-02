@@ -4,6 +4,8 @@ direction = {"L": -1, "R": 1}
 
 def rotate(direction, number, dial): 
     global count
+
+    if dial == 0: count -= 1
     
     if direction == "L":
         while number > 0: 
@@ -15,7 +17,9 @@ def rotate(direction, number, dial):
             else:
                 count += 1
                 dial = 99
-                # number -= gap + 1
+                number -= gap + 1
+
+                if number == 0: return dial
 
     else: 
         while number > 0: 
@@ -29,7 +33,6 @@ def rotate(direction, number, dial):
                 dial = 0
                 number -= gap + 1
 
-    count -= 1
     return 0 
 
 # with open("day1/testInput.txt") as f: 

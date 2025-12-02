@@ -2,7 +2,7 @@
 
 | ***Day*** | ***Part 1*** | ***Part 2*** |
 |:---------:|:------------:|:------------:|
-|   Day 1   |   $${\color{green} Solved}$$    |   $${\color{red}Unsolved}$$   |
+|   Day 1   |   $${\color{green} Solved}$$    |   $${\color{green} Solved}$$    |
 |   Day 2   |   $${\color{green} Solved}$$    |   $${\color{green} Solved}$$    |
 |   Day 3   |   $${\color{orange}Unreleased}$$   |   $${\color{orange}Unreleased}$$   |
 |   Day 4   |   $${\color{orange}Unreleased}$$   |   $${\color{orange}Unreleased}$$   |

@@ -1,4 +1,4 @@
-# [***🧑‍🎄 ADVENT OF CODE 2024! 🎄***](https://adventofcode.com/2024/)
+# [***🧑‍🎄 ADVENT OF CODE 2025! 🎄***](https://adventofcode.com/2025/)
 
 | ***Day*** | ***Part 1*** | ***Part 2*** |
 |:---------:|:------------:|:------------:|

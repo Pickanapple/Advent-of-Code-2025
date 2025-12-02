@@ -18,7 +18,6 @@ with open("day1/input.txt") as f:
 
 for i in instructionsDecoded: 
     dial = rotate(i[0], i[1], dial)
-    print(dial)
     if dial == 0: count += 1
 
 print(count)

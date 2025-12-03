@@ -4,7 +4,7 @@
 |:---------:|:------------:|:------------:|
 |   Day 1   |   $${\color{green} Solved}$$    |   $${\color{green} Solved}$$    |
 |   Day 2   |   $${\color{green} Solved}$$    |   $${\color{green} Solved}$$    |
-|   Day 3   |   $${\color{green} Solved}$$    |   $${\color{red}Unsolved}$$   |
+|   Day 3   |   $${\color{green} Solved}$$    |   $${\color{green} Solved}$$    |
 |   Day 4   |   $${\color{orange}Unreleased}$$   |   $${\color{orange}Unreleased}$$   |
 |   Day 5   |   $${\color{orange}Unreleased}$$   |   $${\color{orange}Unreleased}$$   |
 |   Day 6   |   $${\color{orange}Unreleased}$$   |   $${\color{orange}Unreleased}$$   |

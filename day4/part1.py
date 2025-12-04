@@ -16,7 +16,6 @@ def findValid(grid):
                         continue
 
             if amount < 4: 
-                print(i, j)
                 total += 1
 
     return total

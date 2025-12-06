@@ -5,11 +5,7 @@ with open("day6/input.txt") as f:
 for i in range(len(lines)): 
     lines[i] = lines[i].strip()
 
-splitLines = [i.split(" ") for i in lines]
-
-for i in splitLines: 
-    while "" in i: 
-        i.remove("")
+splitLines = [i.split() for i in lines]
 
 total = 0
 

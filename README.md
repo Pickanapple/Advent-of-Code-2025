@@ -8,7 +8,7 @@
 |   Day 4   |   $${\color{green} Solved}$$    |   $${\color{green} Solved}$$    |
 |   Day 5   |   $${\color{green} Solved}$$    |   $${\color{green} Solved}$$    |
 |   Day 6   |   $${\color{green} Solved}$$    |   $${\color{green} Solved}$$    |
-|   Day 7   |   $${\color{red}Unsolved}$$   |   $${\color{red}Unsolved}$$   |
+|   Day 7   |   $${\color{green} Solved}$$   |   $${\color{red}Unsolved}$$   |
 |   Day 8   |   $${\color{red}Unsolved}$$   |   $${\color{red}Unsolved}$$   |
 |   Day 9   |   $${\color{red}Unsolved}$$   |   $${\color{red}Unsolved}$$   |
 |   Day 10  |   $${\color{orange}Unreleased}$$   |   $${\color{orange}Unreleased}$$   |

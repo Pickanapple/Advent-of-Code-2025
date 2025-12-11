@@ -12,5 +12,5 @@
 |   Day 8   |   $${\color{red}Unsolved}$$   |   $${\color{red}Unsolved}$$   |
 |   Day 9   |   $${\color{red}Unsolved}$$   |   $${\color{red}Unsolved}$$   |
 |   Day 10  |   $${\color{red}Unsolved}$$   |   $${\color{red}Unsolved}$$   |
-|   Day 11  |   $${\color{orange}Unreleased}$$   |   $${\color{orange}Unreleased}$$   |
+|   Day 11  |   $${\color{red}Unsolved}$$   |   $${\color{red}Unsolved}$$   |
 |   Day 12  |   $${\color{orange}Unreleased}$$   |   $${\color{orange}Unreleased}$$   |
